@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": 1431999599882797096,
+        "crypto": "bitcoin",
+        "target_price": 120000.0,
+        "created_price": 78166.0
+    },
+    {
+        "user_id": 1431999599882797096,
+        "crypto": "sol",
+        "target_price": 75.0,
+        "created_price": 101.3
+    },
+    {
+        "user_id": 1431999599882797096,
+        "crypto": "solana",
+        "target_price": 200.0,
+        "created_price": 115.43
+    }
+]
